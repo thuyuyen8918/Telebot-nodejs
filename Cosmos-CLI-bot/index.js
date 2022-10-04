@@ -87,6 +87,9 @@ Below is command syntax for wallet operations
 - Delete wallet
 <i>${instance} keys delete <b>WALLET_NAME</b></i>
 
+- Export private key
+<i>${instance} keys export <b>WALLET_NAME</b> --unarmored-hex --unsafe</i>
+
 - Show list of wallet
 <i>${instance} keys list</i>
 
