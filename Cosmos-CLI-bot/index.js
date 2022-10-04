@@ -97,7 +97,7 @@ Below is command syntax for wallet operations
 <i>${instance} query bank balances <b>WALLET_ADDR</b></i>
 
 - Voting proposal
-<i>${instance} tx gov vote <b>PROPOSAL_ID yes/no</b> --from <b>WALLET_NAME</b> --chain-id <b>SEI_CHAIN_ID</b></i>
+<i>${instance} tx gov vote <b>PROPOSAL_ID yes/no</b> --from <b>WALLET_NAME</b> --chain-id <b>CHAIN_ID</b></i>
     `, {parse_mode: 'html'});
 });
 
