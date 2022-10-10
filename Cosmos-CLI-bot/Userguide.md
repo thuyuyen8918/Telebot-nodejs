@@ -4,15 +4,24 @@
 - Select which chain you wanna check
 > Currently BOT supports 3 chain SEI-STRIDE-HAQQ.
 > Later it will be added more chains
-> ![image](https://user-images.githubusercontent.com/109055532/193732556-2e6532e6-94d6-40bf-9361-9abdb9b5ca4d.png)
+> ![image](https://user-images.githubusercontent.com/109055532/194854323-0ef216a6-6d71-4299-99a0-09d58b0c3904.png)
 
 - After selecting specific chain, you can continue to find CLI command following configured categories in BOT
-> ![image](https://user-images.githubusercontent.com/109055532/193732718-e7898bc8-8ae2-4285-95cc-da45a2dc5510.png)
+> ![image](https://user-images.githubusercontent.com/109055532/194854521-4bf34431-c5c5-412f-98b3-0c30717c8492.png)
 
-- You can type command (such as `/validator` ) or select category directly, then all common CLI command of selected chain will be shown
-> ![image](https://user-images.githubusercontent.com/109055532/193732898-f6683477-2c13-44d1-a97b-2e16d4801641.png)
+- You can type command caterory or select command category directly, then all common CLI command of selected chain will be shown
+> `/wallet`  
+> 
+> ![image](https://user-images.githubusercontent.com/109055532/194854672-b38fa54b-0080-4637-82f6-a7403a67c307.png)
 
-- If you wanna reselect chain or get support, type `/help`
-> ![image](https://user-images.githubusercontent.com/109055532/193733011-74680c3b-d785-40d3-8106-dc6c3d9c6653.png)
+> `/widthdraw`  
+> 
+> ![image](https://user-images.githubusercontent.com/109055532/194854875-88963d8f-1785-4e29-b8c9-ffa4c56e92a1.png)
+
+- If you wanna check status of your validator, type `/status YOUR_VALIDATOR_ADDR`
+> ![image](https://user-images.githubusercontent.com/109055532/194855637-749044fb-3d46-47f3-ad12-581642d51d51.png)
+
+- If you wanna query your balances and delegation situation, type `balance YOUR_WALLET_ADDR`
+> ![image](https://user-images.githubusercontent.com/109055532/194856083-03ed0d08-5911-4e29-8781-b5d45f18386d.png)
 
 - Kindly enjoy it. Tks for your reading
