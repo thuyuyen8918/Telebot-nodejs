@@ -21,7 +21,7 @@
 - If you wanna check status of your validator, type `/status YOUR_VALIDATOR_ADDR`
 > ![image](https://user-images.githubusercontent.com/109055532/194855637-749044fb-3d46-47f3-ad12-581642d51d51.png)
 
-- If you wanna query your balances and delegation situation, type `balance YOUR_WALLET_ADDR`
+- If you wanna query your balances and delegation situation, type `/balance YOUR_WALLET_ADDR`
 > ![image](https://user-images.githubusercontent.com/109055532/194856083-03ed0d08-5911-4e29-8781-b5d45f18386d.png)
 
 - Kindly enjoy it. Tks for your reading
