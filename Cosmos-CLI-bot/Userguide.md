@@ -1,5 +1,5 @@
 > The part guides you how to use the BOT
-- In Telegram, search the BOT [Cosmos_CLI_BOT](https://t.me/cosmos_tips_bot), then `Start` it.
+- In Telegram, search the BOT [Cosmos_CLI_BOT](https://t.me/cosmos_tips_bot), then type `/start` to start BOT
 
 - Select which chain you wanna check
 > Currently BOT supports 3 chain SEI-STRIDE-HAQQ.
